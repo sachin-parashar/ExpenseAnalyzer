@@ -1,0 +1,6 @@
+{
+  "name": "Statement Lens: Subscription & Money Leakage Detector",
+  "description": "100% client-side bank and credit card statement analyzer that cleans cryptic merchant names, classifies inflows and outflows, detects recurring subscriptions, and uncovers hidden money leakages in memory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
